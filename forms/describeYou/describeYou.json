@@ -36,6 +36,15 @@
         "Elements",
         "btnFavEx.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "lblDescribeMessage.json"
+      ]
     }
   ],
   "class": "",
