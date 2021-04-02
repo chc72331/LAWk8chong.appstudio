@@ -1,10 +1,4 @@
-
-
-
-
-
-
-rdbtnBlah.onchange=function(){
+rdbtnBlah.onchange = function() {
   let userMood = $(rdbtnBlah.value)
   console.log(userMood)
 }
