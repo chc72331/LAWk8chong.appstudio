@@ -16,7 +16,7 @@
         "forms",
         "dessertVoting",
         "Elements",
-        "lblPrompt.json"
+        "lblDessertPrompt.json"
       ]
     },
     {
@@ -26,6 +26,24 @@
         "dessertVoting",
         "Elements",
         "drpDesserts.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "dessertVoting",
+        "Elements",
+        "lblDessertMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "dessertVoting",
+        "Elements",
+        "btnDescribeYou.json"
       ]
     }
   ],
