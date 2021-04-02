@@ -36,6 +36,15 @@
         "Elements",
         "btnMobileNav.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "lblExerciseMessage.json"
+      ]
     }
   ],
   "class": "",
