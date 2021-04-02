@@ -15,11 +15,11 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": "auto",
+  "height": 149,
   "hidden": "",
   "id": "lblDescribePrompt",
   "labelStyle": "text",
-  "left": 24,
+  "left": 26,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 40,
+  "top": 42,
   "value": "Which of these best describes your personality type? ",
-  "width": 266
+  "width": 139
 }
