@@ -12,9 +12,9 @@ btnExercise.onclick = function() {
     message = message + selExercises.text[j]
 
   if (message == "situps, plank, ")
-    console.log("You right")
+    lblExerciseMessage.value = 'You chose situps and planks - those are the core exercises.'
   else
-    console.log("Not core exercises")
+    lblExerciseMessage.value = 'You did not pick the two core exercises.'
 }
 
 btnMobileNav.onclick = function() {
