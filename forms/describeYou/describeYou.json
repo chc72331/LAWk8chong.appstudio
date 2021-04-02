@@ -25,7 +25,16 @@
         "forms",
         "describeYou",
         "Elements",
-        "rdbtnBlah.json"
+        "rdbtnTraits.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "btnFavEx.json"
       ]
     }
   ],
