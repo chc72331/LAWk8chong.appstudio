@@ -5,6 +5,6 @@ rdbtnTraits.onchange = function() {
           also say that you\'re ${userMood} too!`
 }
 
-btnFavEx.onclick = function(){
+btnFavEx.onclick = function() {
   ChangeForm(favExercises)
 }
