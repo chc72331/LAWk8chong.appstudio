@@ -6,7 +6,6 @@ favExercises.onshow = function() {
     selExercises.addItem(exercises[i])
 }
 
-
 btnExercise.onclick = function() {
   let message = ''
   for (j = 0; j < selExercises.text.length; j++)
