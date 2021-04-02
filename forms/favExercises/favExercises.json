@@ -27,6 +27,15 @@
         "Elements",
         "btnExercise.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "btnMobileNav.json"
+      ]
     }
   ],
   "class": "",
