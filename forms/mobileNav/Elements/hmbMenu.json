@@ -30,8 +30,8 @@
   "icon": "menu",
   "iconTitle": "",
   "id": "hmbMenu",
-  "items": "",
-  "left": 0,
+  "items": "Dessert Voting\nDescribe You\nFavorite Exercises\nMobile Navigation",
+  "left": 23,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -61,7 +61,7 @@
   "script": "",
   "size": " btn-md",
   "style": "float:right;",
-  "top": 0,
+  "top": 27,
   "value": "",
   "width": "auto"
 }
