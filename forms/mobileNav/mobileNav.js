@@ -1,4 +1,4 @@
-
+/*
 hmbMenu.onclick=function(s){
   if (typeof(s) == "object") 
     return
@@ -6,8 +6,8 @@ hmbMenu.onclick=function(s){
   case "Dessert Voting"
     changeForm(dessertVoting)
     break
-  case
-  /* add a switch here to take the user to the form
-     they chose. 
-  */
+  //case
+  // add a switch here to take the user to the form they chose. 
+  }
 }
+*/
