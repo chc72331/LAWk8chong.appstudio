@@ -16,7 +16,7 @@ drpDesserts.onclick = function(s) {
       return                    
     else {  // the user picked something
         drpDesserts.value = s
-        lblDessertMessage.value = `${s}?  Okay, if you insist.`
+        lblDessertMessage.value = `You picked ${s} - that is a great choice!`
     }
 }
 
